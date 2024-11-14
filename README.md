@@ -1,2 +1,2 @@
 "# UDS-OWOD" :
-Our Work will be released soon
+Our Work will release soon
